@@ -51,7 +51,8 @@ python task1_image_processing.py
 
 ### Canny Edge Detection
 
-![Canny Edges](canny_edges.jpg)
+![Canny Edges](images/canny_edges.jpg)
+
 
 ## Output Files
 
